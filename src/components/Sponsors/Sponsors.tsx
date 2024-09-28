@@ -1,6 +1,4 @@
-import React from 'react'
 import "./Sponsors.css"
-import iotalogo from "../../assets/iota_logo.png"
 import Lavazza from "../../assets/Lavazza-Logo.svg.png"
 import Deeplink from "../../assets/deeplink-Logo.jpg"
 import Imsk from "../../assets/Imsk-Logo.png"

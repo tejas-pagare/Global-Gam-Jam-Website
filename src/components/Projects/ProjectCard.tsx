@@ -8,7 +8,7 @@ export default function ProjectCard({
   projectDesc,
   teamMembers,
   techStack,
-  projectUrl,
+ 
 }: {
   id: string;
   projectName: string;
@@ -19,8 +19,7 @@ export default function ProjectCard({
   techStack: string;
   projectUrl: string;
 }) {
-  console.log(projectDesc);
-  console.log(projectName);
+
 
   return (
     <NeonGradientCard>
